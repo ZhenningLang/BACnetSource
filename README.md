@@ -4,7 +4,7 @@
 
 BACnet Source Codes with Chinese comments
 
-The orininal source codes are coded by Serotonin Software)
+The orininal source codes are coded by Serotonin Software
 
 ---
 
